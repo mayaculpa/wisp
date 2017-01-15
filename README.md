@@ -1,2 +1,2 @@
-# wisp
+# WISP
 Workshop Innovation Support Platform
