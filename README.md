@@ -1,3 +1,4 @@
 # WISP
-https://github.com/mayaculpa/wisp/wisp-logo.png "WISP Logo"
+![WISP Logo]
+(https://github.com/mayaculpa/wisp/wisp-logo.png)
 Workshop Innovation Support Platform
